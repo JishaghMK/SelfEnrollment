@@ -1,0 +1,1 @@
+This is a Suprema biometric enrollment portal where users can log in and enroll their face information. Once the enrollment is completed, the face data will be pushed directly to the biometric device automatically.
